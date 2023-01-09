@@ -1,0 +1,4 @@
+How to run:
+javac HashTable.java HashTableImpDivision.java HashTableImpMultiplication.java HashTableImpModified.java Key.java Test.java
+
+java Test
